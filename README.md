@@ -1,11 +1,11 @@
-# LIDER (SAUL) 
+# LIDER (SAUL) :bowtie:
 
 ## CREA EL PROYECTO EN INTELLIJ >>
 git add Main.java
 git commit -m "Commit Saul"
 
 
-# COLABORADORES ( ANTON, JOSE, ALEX ) 
+# COLABORADORES ( ANTON, JOSE, ALEX ) :neckbeard:
 
 ## CLONAN EL REPOSITORIO 
 git checkout -b "NOMBRE DEL COLABORARADOR"
@@ -18,7 +18,7 @@ git push
 
 
 
-# LIDER (SAUL) 
+# LIDER (SAUL)  :bowtie:
 
 git fetch "Nombre de la rama del colaborador que queramos cargar"
 
