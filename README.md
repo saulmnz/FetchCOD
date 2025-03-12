@@ -8,13 +8,13 @@ git commit -m "Commit Saul"<br>
 
 # COLABORADORES ( ANTON, JOSE, ALEX ) :neckbeard:
 <br>
-## CLONAN EL REPOSITORIO 
+CLONAN EL REPOSITORIO 
 <br>
 git checkout -b "NOMBRE DEL COLABORARADOR"<br>
 <br>
-## CADA UNO CREA SU PROPIO "NOMBRE COLABORADOR".CLASS
+CADA UNO CREA SU PROPIO "NOMBRE COLABORADOR".CLASS
 <br>
-### Añaden Código
+Añaden Código
 <br>
 git add "NOMBRE COLABORADOR".CLASS<br>
 git commit -m "Commit "NOMBRE COLABORADOR""<br>
