@@ -1,6 +1,6 @@
 # LIDER (SAUL) :bowtie:
 <br>
-## CREA EL PROYECTO EN INTELLIJ >><br>
+## CREA EL PROYECTO EN INTELLIJ <br>
 git add Main.java <br>
 git commit -m "Commit Saul"<br>
 <br>
@@ -9,9 +9,9 @@ git commit -m "Commit Saul"<br>
 <br>
 ## CLONAN EL REPOSITORIO <br>
 git checkout -b "NOMBRE DEL COLABORARADOR"<br>
-
+<br>
 ## CADA UNO CREA SU PROPIO "NOMBRE COLABORADOR".CLASS<br>
-### Añaden Código<br>
+### Añaden Código <br>
 git add "NOMBRE COLABORADOR".CLASS<br>
 git commit -m "Commit "NOMBRE COLABORADOR""<br>
 git push
